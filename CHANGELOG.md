@@ -1,14 +1,8 @@
-# Alterações — Rank 1 completo
+# Changelog
 
-- Ampliação integral do capítulo BNCC, DCNEI, interações e brincadeiras.
-- Priorização interna A/B/C na proporção 60/25/15.
-- Inclusão de concepção de criança, finalidade, seis direitos, cinco campos, grupos etários e códigos.
-- Inclusão de objetivos-chave por campo e grupo, intencionalidade, cuidar e educar, rotina, avaliação, registros, transição e síntese.
-- Inclusão das definições e dos princípios éticos, políticos e estéticos das DCNEI.
-- Inclusão de inclusão, diversidade, família, natureza e tecnologia.
-- Doze comparações de conceitos e dez pegadinhas típicas.
-- Quinze situações práticas comentadas.
-- Catálogo de doze questões reais localizadas, com status de verificação.
-- Dez questões adaptadas, doze autorais e minissimulado de quinze questões, todos interativos e comentados.
-- Vinte e oito flashcards.
-- Checklist de auditoria, progresso salvo, modo escuro, impressão e responsividade.
+## Versão 2.0 — Rank 2
+- Mantido integralmente o Rank 1.
+- Adicionado Rank 2 — LDB aplicada à Educação Infantil.
+- Acrescentados estudo literal dos artigos prioritários, comparações, pegadinhas e atualizações legislativas recentes.
+- Acrescentados blocos de questões adaptadas e autorais, simulado, flashcards e checklist de domínio.
+- Mantida compatibilidade com GitHub Pages e salvamento de progresso via localStorage.
