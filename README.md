@@ -1,32 +1,30 @@
 # Apostila Educador Infantil — Cianorte/PR
 
-Versão estática e independente do Ranks 1, 2 e 3 da apostila, pronta para publicação no GitHub Pages.
+Site estático preparado para GitHub Pages.
 
-## Qual HTML usar
+## Estrutura
 
-Os dois arquivos HTML têm o mesmo conteúdo. Envie somente um deles:
+- `index.html` — painel de estudos
+- `ranks/` — um arquivo por Rank
+- `simulados/erros.html` — caderno de erros
+- `simulados/geral.html` — acesso aos simulados
+- `assets/style.css` — estilos compartilhados
+- `assets/data.js` — questões e flashcards
+- `assets/app.js` — progresso, busca, quizzes e navegação
+- `assets/search-index.js` — índice de busca local
 
-- `apostila_educador_infantil_cianorte.html`: use para substituir o arquivo anterior mantendo o mesmo nome.
-- `index.html`: use quando a apostila será a página inicial de um repositório GitHub Pages.
+## Atualização no GitHub
 
-Não é necessário publicar os dois HTMLs.
+Envie **todo o conteúdo deste diretório para a raiz do repositório**, substituindo o `index.html` antigo. O GitHub Pages continuará usando `index.html` como página inicial.
 
-## Arquivos auxiliares
+O progresso fica salvo no `localStorage` do navegador e usa o mesmo prefixo da versão anterior, preservando checklists e resultados já existentes quando possível.
 
-- `CHANGELOG.md`: resumo das alterações desta versão.
-- `README.md`: estas instruções de publicação.
+## Ranks incluídos
 
-## Publicação no GitHub Pages
+1. BNCC + DCNEI
+2. LDB
+3. ECA
+4. Vygotsky, Piaget e Wallon
+5. Avaliação mediadora + Jussara Hoffmann
 
-1. Envie o HTML escolhido para o repositório.
-2. Para abrir como página inicial, o arquivo deve se chamar `index.html`.
-3. No GitHub, abra **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Escolha a branch principal e a pasta **/ (root)**.
-6. Salve.
-
-A página não depende de bibliotecas, fontes ou imagens externas. O progresso e as respostas ficam salvos no `localStorage` do navegador.
-
-
-## Conteúdo atual
-Ranks 1, 2 e 3: BNCC/DCNEI, LDB e ECA aplicado ao Educador Infantil.
+Rank 6 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
