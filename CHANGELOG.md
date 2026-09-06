@@ -1,5 +1,15 @@
 # Changelog
 
+## Rank 10 — Gestão democrática, PPP e instâncias colegiadas
+
+- Conteúdo alinhado aos tópicos expressos no edital de Cianorte nº 001/2026 e ao padrão de cobrança da UniFil.
+- Constituição e LDB atualizada: participação, Conselho Escolar, Fórum dos Conselhos Escolares e autonomia.
+- PPP como documento-processo coletivo, ciclo de construção, execução, avaliação e revisão.
+- Funções, composição e diferenças entre Conselho Escolar, Fórum, APMF, Unidade Executora e Conselho de Classe.
+- Liderança democrática, participação infantil e familiar, transparência, conflitos e avaliação institucional.
+- 30 questões em dois blocos, simulado exclusivo de 20 questões e 32 flashcards.
+- Integração com progresso, busca, caderno de erros e “Continuar estudando”.
+
 ## Rank 9 — Planejamento, Didática e organização do trabalho pedagógico
 
 - Conteúdo alinhado aos tópicos expressos no edital de Cianorte nº 001/2026.

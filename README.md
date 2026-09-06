@@ -30,5 +30,6 @@ O progresso fica salvo no `localStorage` do navegador e usa o mesmo prefixo da v
 7. Educação Inclusiva + Educação Especial
 8. Referencial Curricular do Paraná — Educação Infantil
 9. Planejamento, Didática e organização do trabalho pedagógico
+10. Gestão democrática, PPP e instâncias colegiadas
 
-Rank 10 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
+Rank 11 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
