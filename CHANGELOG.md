@@ -1,5 +1,15 @@
 # Changelog
 
+## Rank 11 — Bullying, intimidação e cultura de paz
+
+- Conteúdo alinhado ao tópico expresso no edital de Cianorte nº 001/2026 e às formas de cobrança da UniFil.
+- Conceito legal, manifestações, oito modalidades, desequilíbrio de poder e diagnóstico diferencial.
+- Cyberbullying e atualização da Lei nº 14.811/2024, LDB vigente, Lei nº 13.431/2017 e SNAVE.
+- Prevenção, cultura de paz, protocolo, escuta protegida, registro, famílias e rede de proteção.
+- Aplicação específica à Educação Infantil e responsabilização educativa sem impunidade.
+- 30 questões em dois blocos, simulado exclusivo de 20 questões e 32 flashcards.
+- Integração com progresso, busca, caderno de erros e “Continuar estudando”.
+
 ## Rank 10 — Gestão democrática, PPP e instâncias colegiadas
 
 - Conteúdo alinhado aos tópicos expressos no edital de Cianorte nº 001/2026 e ao padrão de cobrança da UniFil.

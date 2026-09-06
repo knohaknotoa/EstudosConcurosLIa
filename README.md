@@ -31,5 +31,6 @@ O progresso fica salvo no `localStorage` do navegador e usa o mesmo prefixo da v
 8. Referencial Curricular do Paraná — Educação Infantil
 9. Planejamento, Didática e organização do trabalho pedagógico
 10. Gestão democrática, PPP e instâncias colegiadas
+11. Bullying, perturbação, intimidação e cultura de paz
 
-Rank 11 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
+Rank 12 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
