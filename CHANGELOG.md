@@ -1,5 +1,14 @@
 # Changelog
 
+## Rank 8 — Referencial Curricular do Paraná
+
+- Relação entre BNCC, Referencial estadual, proposta curricular e PPP.
+- Estrutura da Educação Infantil, princípios, direitos, eixos e campos de experiências.
+- Organizador em seis partes por idade, códigos da BNCC, objetivos correlacionados e saberes/conhecimentos.
+- Planejamento, avaliação, inclusão, linguagem escrita e transição para o Ensino Fundamental.
+- 30 questões em dois blocos, simulado exclusivo de 20 questões e 32 flashcards.
+- Integração com progresso, busca, caderno de erros e “Continuar estudando”.
+
 ## Rank 7 — Educação Inclusiva
 
 - Inclusão, integração, modelos de deficiência e público da Educação Especial.

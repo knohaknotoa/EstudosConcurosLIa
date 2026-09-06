@@ -28,5 +28,6 @@ O progresso fica salvo no `localStorage` do navegador e usa o mesmo prefixo da v
 5. Avaliação mediadora + Jussara Hoffmann
 6. Concepções de Educação Infantil + Kishimoto, jogo, brinquedo e brincadeira
 7. Educação Inclusiva + Educação Especial
+8. Referencial Curricular do Paraná — Educação Infantil
 
-Rank 8 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
+Rank 9 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
