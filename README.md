@@ -29,5 +29,6 @@ O progresso fica salvo no `localStorage` do navegador e usa o mesmo prefixo da v
 6. Concepções de Educação Infantil + Kishimoto, jogo, brinquedo e brincadeira
 7. Educação Inclusiva + Educação Especial
 8. Referencial Curricular do Paraná — Educação Infantil
+9. Planejamento, Didática e organização do trabalho pedagógico
 
-Rank 9 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
+Rank 10 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.

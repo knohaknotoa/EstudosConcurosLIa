@@ -1,5 +1,15 @@
 # Changelog
 
+## Rank 9 — Planejamento, Didática e organização do trabalho pedagógico
+
+- Conteúdo alinhado aos tópicos expressos no edital de Cianorte nº 001/2026.
+- Didática, planejamento, plano, PPP e Plano de Trabalho Docente.
+- Objetivos, seleção de experiências, encaminhamentos metodológicos e coerência didática.
+- Sequências didáticas, projetos, rotina, tempos, espaços, materiais e agrupamentos.
+- Mediação, participação infantil, inclusão, avaliação e replanejamento.
+- 30 questões em dois blocos, simulado exclusivo de 20 questões e 32 flashcards.
+- Integração com progresso, busca, caderno de erros e “Continuar estudando”.
+
 ## Rank 8 — Referencial Curricular do Paraná
 
 - Relação entre BNCC, Referencial estadual, proposta curricular e PPP.
