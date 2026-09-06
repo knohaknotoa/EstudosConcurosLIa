@@ -1,5 +1,14 @@
 # Changelog
 
+## Rank 7 — Educação Inclusiva
+
+- Inclusão, integração, modelos de deficiência e público da Educação Especial.
+- AEE, barreiras, acessibilidade, desenho universal e tecnologia assistiva.
+- Estudo de caso, PAEE e PEI conforme a regulamentação nacional vigente.
+- Práticas inclusivas na Educação Infantil, avaliação e trabalho colaborativo.
+- 30 questões em dois blocos, simulado exclusivo de 20 questões e 32 flashcards.
+- Integração com progresso, busca, caderno de erros e “Continuar estudando”.
+
 ## Rank 6 — ludicidade
 
 - Conteúdo completo sobre concepções de Educação Infantil, currículo e função social.

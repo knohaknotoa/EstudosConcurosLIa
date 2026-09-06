@@ -27,5 +27,6 @@ O progresso fica salvo no `localStorage` do navegador e usa o mesmo prefixo da v
 4. Vygotsky, Piaget e Wallon
 5. Avaliação mediadora + Jussara Hoffmann
 6. Concepções de Educação Infantil + Kishimoto, jogo, brinquedo e brincadeira
+7. Educação Inclusiva + Educação Especial
 
-Rank 7 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
+Rank 8 e posteriores podem ser adicionados em `ranks/` sem transformar novamente o site em uma página única.
