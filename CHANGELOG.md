@@ -1,5 +1,13 @@
 # Changelog
 
+## Rank 6 — ludicidade
+
+- Conteúdo completo sobre concepções de Educação Infantil, currículo e função social.
+- Kishimoto: jogo, brinquedo, brincadeira, cultura e equilíbrio lúdico-educativo.
+- Organização de tempos, espaços e materiais, mediação, inclusão e observação.
+- 30 questões em dois blocos, simulado de 20 questões e 32 flashcards.
+- Integração com progresso, busca, caderno de erros e “Continuar estudando”.
+
 ## Site V2 — reorganização estrutural
 
 - Conteúdo dos Ranks 1–5 separado em páginas próprias.
